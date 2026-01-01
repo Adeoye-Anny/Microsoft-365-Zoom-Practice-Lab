@@ -25,9 +25,7 @@ What I did
   * Created a signature with my name, role, and phone format.
   * Set it as default for New messages and Replies/forwards.
   * Sent myself a test email to confirm it works.
-
-✅ Screenshot to upload: Outlook signature settings showing the signature created and selected as default.
-Filename suggestion: outlook-signature-default.png
+    <img width="1917" height="924" alt="image" src="https://github.com/user-attachments/assets/11577a0a-3aff-4d7e-9fd7-246af5eebcf1" />
 
 
 #### Task A2: Fix “Outlook search not returning results”
@@ -40,8 +38,6 @@ What I did
     * Control Panel → Programs → Microsoft 365 → Change → Quick Repair
   Reopened Outlook and tested search again.
 
-✅ Screenshot to upload: Indexing Status window OR the “Quick Repair” screen.
-Filename: outlook-indexing-status.png or office-quick-repair.png
 
 
 #### Task A3: Create a meeting invite and share availability
@@ -50,10 +46,9 @@ What I did
   * Clicked New Meeting.
   * Added attendees and checked Scheduling Assistant.
   * Set time and sent invite.
-  * erified the invite appeared on calendar.
+  * Verified the invite appeared on calendar.
+    <img width="1920" height="912" alt="image" src="https://github.com/user-attachments/assets/e43f6d73-c7d8-4b91-b302-837588cc0abe" />
 
-✅ Screenshot to upload: Scheduling Assistant view showing attendees and time slots.
-Filename: outlook-scheduling-assistant.png
 
 
 ### 2. OneDrive: File Sync + Sharing Troubleshooting
@@ -66,8 +61,7 @@ What I did
     * Created a folder OneDrive-Lab
     * Added a small file
     * Confirmed green check marks (synced)
-✅ Screenshot to upload: OneDrive tray panel showing “Up to date” and the account name.
-Filename: onedrive-up-to-date.png
+      <img width="1913" height="919" alt="image" src="https://github.com/user-attachments/assets/894b09b2-734e-487b-9aac-ed71fd06fe0a" />
 
 
 #### Task B2: Fix “Files not syncing”
@@ -83,8 +77,6 @@ What I did
     * Ran: onedrive.exe /reset
   * Re-tested sync by uploading a file again.
 
-✅ Screenshot to upload: OneDrive error message (if any) OR after reset showing sync working.
-Filename: onedrive-sync-fix.png
 
 
 #### Task B3: Share a file with view-only permissions
@@ -93,9 +85,8 @@ What I did
   * Selected Share.
   * Set permission to Can view.
   * Copied the link and tested it in an incognito browser window.
+      <img width="1920" height="920" alt="image" src="https://github.com/user-attachments/assets/4b21a08e-0561-4537-a1f9-e20e90b9cc50" />
 
-✅ Screenshot to upload: Share dialog showing “Can view” setting.
-Filename: onedrive-share-view-only.png
 
 
 ### 3. Word: Formatting + Recovery Scenario
@@ -106,8 +97,6 @@ What I did
   * Used Format Painter to standardize text.
   * Inserted page numbers and updated margins.
 
-✅ Screenshot to upload: Word Styles pane showing Heading styles applied.
-Filename: word-styles-headings.png
 
 #### Task C2: Recover an unsaved Word document
 What I did
@@ -115,8 +104,6 @@ What I did
   * Went to File → Info → Manage Document → Recover Unsaved Documents.
   * Restored the latest version and saved it properly.
 
-✅ Screenshot to upload: Recover Unsaved Documents window.
-Filename: word-recover-unsaved.png
 
 ### 4. Excel: Basic Help Desk Requests
 #### Task D1: Fix #VALUE! and incorrect formulas
@@ -128,8 +115,6 @@ What I did
     * Converted number-stored-as-text
   * Re-tested formulas and confirmed correct totals.
 
-✅ Screenshot to upload: Before/after showing the corrected formula result.
-Filename: excel-formula-fix.png
 
 #### Task D2: Create a simple table + filter
 What I did
@@ -137,8 +122,6 @@ What I did
   * Pressed Ctrl + T to convert it into a table.
   * Enabled filters and tested sorting by a column.
 
-✅ Screenshot to upload: Table with filter arrows visible.
-Filename: excel-table-filters.png
 
 ### 5. Teams: Meeting and Chat Support
 #### ask E1: Create a Teams meeting and share the link
@@ -147,9 +130,8 @@ What I did
   * Went to Calendar → New meeting.
   * Set title/time and copied the meeting link.
   * Joined from another device/browser to test.
+    <img width="1912" height="915" alt="image" src="https://github.com/user-attachments/assets/b426fc89-b180-44af-bebd-5b9fe126f2a0" />
 
-✅ Screenshot to upload: Teams meeting details page showing the meeting link option.
-Filename: teams-meeting-link.png
 
 #### Task E2: Fix Teams mic not working
 What I did
