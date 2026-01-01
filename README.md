@@ -16,7 +16,7 @@ In this lab, I practiced core Microsoft 365 apps (Outlook, Word, Excel, Teams, O
   * Document steps and capture proof screenshots for a GitHub portfolio.
 
 
-### Part A: Microsoft 365 Simulated User Requests
+# Part A: Microsoft 365 Simulated User Requests
 ### 1. Outlook: Email + Calendar Support Tasks
 #### Task A1: Create email signature and apply it to new messages and replies
 What I did
@@ -203,7 +203,6 @@ Filename: zoom-select-microphone.png
 
 #### Issue 3: “Camera not working / black screen”
 Fix steps I used
-
   * Zoom ^ next to camera → selected correct camera.
   * Checked if another app is using the camera (Teams, camera app).
   * Confirmed Windows camera privacy access is enabled.
@@ -214,7 +213,6 @@ Filename: zoom-video-settings.png
 
 #### Issue 4: “I can’t share my screen”
 Fix steps I used
-
   * Verified host permissions:
   * Host controls → Security → Allow participants to share (if needed)
   * Tested sharing the entire screen vs a single window.
@@ -223,5 +221,5 @@ Fix steps I used
 ✅ Screenshot to upload: Zoom Security menu settings related to screen sharing.
 Filename: zoom-screen-share-permissions.png
 
-Results
+### Results
 By completing these tasks, I demonstrated practical end-user support skills across Microsoft 365 and Zoom, including configuring apps, troubleshooting common user issues, validating fixes, and documenting the process in a recruiter-friendly format.
