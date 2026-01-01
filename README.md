@@ -59,7 +59,6 @@ Filename: outlook-scheduling-assistant.png
 ### 2. OneDrive: File Sync + Sharing Troubleshooting
 #### Task B1: Confirm OneDrive is syncing correctly
 What I did
-
   * Clicked the OneDrive cloud icon in the system tray.
   * Opened Help & Settings → Settings.
   * Confirmed the correct account is signed in.
@@ -73,7 +72,6 @@ Filename: onedrive-up-to-date.png
 
 #### Task B2: Fix “Files not syncing”
 What I did
-
   * Checked common causes:
     * Internet connection stable
     * OneDrive not paused
@@ -89,187 +87,138 @@ What I did
 Filename: onedrive-sync-fix.png
 
 
-Task B3: Share a file with view-only permissions
+#### Task B3: Share a file with view-only permissions
 What I did
-
-Right-clicked a file in OneDrive folder.
-
-Selected Share.
-
-Set permission to Can view.
-
-Copied the link and tested it in an incognito browser window.
+  * Right-clicked a file in OneDrive folder.
+  * Selected Share.
+  * Set permission to Can view.
+  * Copied the link and tested it in an incognito browser window.
 
 ✅ Screenshot to upload: Share dialog showing “Can view” setting.
 Filename: onedrive-share-view-only.png
 
-3) Word: Formatting + Recovery Scenario
-Task C1: Fix document formatting (headings + consistent style)
+
+### 3. Word: Formatting + Recovery Scenario
+#### Task C1: Fix document formatting (headings + consistent style)
 What I did
-
-Opened a messy document.
-
-Applied Heading 1, Heading 2 styles consistently.
-
-Used Format Painter to standardize text.
-
-Inserted page numbers and updated margins.
+  * Opened a messy document.
+  * Applied Heading 1, Heading 2 styles consistently.
+  * Used Format Painter to standardize text.
+  * Inserted page numbers and updated margins.
 
 ✅ Screenshot to upload: Word Styles pane showing Heading styles applied.
 Filename: word-styles-headings.png
 
-Task C2: Recover an unsaved Word document
+#### Task C2: Recover an unsaved Word document
 What I did
-
-Opened Word.
-
-Went to File → Info → Manage Document → Recover Unsaved Documents.
-
-Restored the latest version and saved it properly.
+  * Opened Word.
+  * Went to File → Info → Manage Document → Recover Unsaved Documents.
+  * Restored the latest version and saved it properly.
 
 ✅ Screenshot to upload: Recover Unsaved Documents window.
 Filename: word-recover-unsaved.png
 
-4) Excel: Basic Help Desk Requests
-Task D1: Fix #VALUE! and incorrect formulas
+### 4. Excel: Basic Help Desk Requests
+#### Task D1: Fix #VALUE! and incorrect formulas
 What I did
-
-Opened an Excel sheet with calculated totals.
-
-Identified #VALUE! caused by text values in numeric cells.
-
-Cleaned data:
-
-Removed spaces
-
-Converted number-stored-as-text
-
-Re-tested formulas and confirmed correct totals.
+  * Opened an Excel sheet with calculated totals.
+  * Identified #VALUE! caused by text values in numeric cells.
+  * Cleaned data:
+    * Removed spaces
+    * Converted number-stored-as-text
+  * Re-tested formulas and confirmed correct totals.
 
 ✅ Screenshot to upload: Before/after showing the corrected formula result.
 Filename: excel-formula-fix.png
 
-Task D2: Create a simple table + filter
+#### Task D2: Create a simple table + filter
 What I did
-
-Selected a dataset.
-
-Pressed Ctrl + T to convert it into a table.
-
-Enabled filters and tested sorting by a column.
+  * Selected a dataset.
+  * Pressed Ctrl + T to convert it into a table.
+  * Enabled filters and tested sorting by a column.
 
 ✅ Screenshot to upload: Table with filter arrows visible.
 Filename: excel-table-filters.png
 
-5) Teams: Meeting and Chat Support
-Task E1: Create a Teams meeting and share the link
+### 5. Teams: Meeting and Chat Support
+#### ask E1: Create a Teams meeting and share the link
 What I did
-
-Opened Teams.
-
-Went to Calendar → New meeting.
-
-Set title/time and copied the meeting link.
-
-Joined from another device/browser to test.
+  * Opened Teams.
+  * Went to Calendar → New meeting.
+  * Set title/time and copied the meeting link.
+  * Joined from another device/browser to test.
 
 ✅ Screenshot to upload: Teams meeting details page showing the meeting link option.
 Filename: teams-meeting-link.png
 
-Task E2: Fix Teams mic not working
+#### Task E2: Fix Teams mic not working
 What I did
 
-Checked Teams device settings:
-
-Settings → Devices
-
-Confirmed correct microphone selected.
-
-Verified Windows privacy:
-
-Settings → Privacy → Microphone access
-
-Tested with a Teams test call (if available) or joined a meeting and checked mic meter.
+  * Checked Teams device settings:
+    * Settings → Devices
+  * Confirmed correct microphone selected.
+  * Verified Windows privacy:
+    * Settings → Privacy → Microphone access
+  * Tested with a Teams test call (if available) or joined a meeting and checked mic meter.
 
 ✅ Screenshot to upload: Teams Devices settings showing selected mic/speaker.
 Filename: teams-device-settings.png
 
-Part B: Zoom Hosting + Troubleshooting
-1) Hosted a Zoom meeting (as the organizer)
+# Part B: Zoom Hosting + Troubleshooting
+### 1. Hosted a Zoom meeting (as the organizer)
 What I did
-
-Opened Zoom desktop app.
-
-Clicked New Meeting.
-
-Enabled Waiting Room and confirmed host controls.
-
-Practiced:
-
-Admit/remove participants
-
-Mute all
-
-Lock meeting
-
-Share screen
+  * Opened Zoom desktop app.
+  * Clicked New Meeting.
+  * Enabled Waiting Room and confirmed host controls.
+  * Practiced:
+    * Admit/remove participants
+    * Mute all
+    * Lock meeting
+    * Share screen
 
 ✅ Screenshot to upload: Zoom host controls bar visible during meeting.
 Filename: zoom-host-controls.png
 
-2) Troubleshot common Zoom issues
-Issue 1: “I can’t hear anyone”
+
+### 2. Troubleshot common Zoom issues
+#### Issue 1: “I can’t hear anyone”
 Fix steps I used
-
-Checked Zoom audio output:
-
-Click ^ next to speaker icon → Select Speaker
-
-Tested speaker audio.
-
-Confirmed Windows volume mixer isn’t muted.
+  * Checked Zoom audio output:
+    * Click ^ next to speaker icon → Select Speaker
+  * Tested speaker audio.
+  * Confirmed Windows volume mixer isn’t muted.
 
 ✅ Screenshot to upload: Audio menu showing speaker selection.
 Filename: zoom-select-speaker.png
 
-Issue 2: “My microphone isn’t working”
+#### Issue 2: “My microphone isn’t working”
 Fix steps I used
-
-Clicked ^ next to mic → Select Microphone.
-
-Tested mic input meter.
-
-Checked Windows microphone privacy settings.
-
-Closed apps that might be using the mic (Teams, browser tabs, etc.).
+  * Clicked ^ next to mic → Select Microphone.
+  * Tested mic input meter.
+  * Checked Windows microphone privacy settings.
+  * Closed apps that might be using the mic (Teams, browser tabs, etc.).
 
 ✅ Screenshot to upload: Microphone selection menu + input meter.
 Filename: zoom-select-microphone.png
 
-Issue 3: “Camera not working / black screen”
+#### Issue 3: “Camera not working / black screen”
 Fix steps I used
 
-Zoom ^ next to camera → selected correct camera.
-
-Checked if another app is using the camera (Teams, camera app).
-
-Confirmed Windows camera privacy access is enabled.
-
-Restarted Zoom and re-tested.
+  * Zoom ^ next to camera → selected correct camera.
+  * Checked if another app is using the camera (Teams, camera app).
+  * Confirmed Windows camera privacy access is enabled.
+  * Restarted Zoom and re-tested.
 
 ✅ Screenshot to upload: Zoom video settings showing selected camera preview.
 Filename: zoom-video-settings.png
 
-Issue 4: “I can’t share my screen”
+#### Issue 4: “I can’t share my screen”
 Fix steps I used
 
-Verified host permissions:
-
-Host controls → Security → Allow participants to share (if needed)
-
-Tested sharing the entire screen vs a single window.
-
-Confirmed no restricted policy or conflicting app overlay.
+  * Verified host permissions:
+  * Host controls → Security → Allow participants to share (if needed)
+  * Tested sharing the entire screen vs a single window.
+  * Confirmed no restricted policy or conflicting app overlay.
 
 ✅ Screenshot to upload: Zoom Security menu settings related to screen sharing.
 Filename: zoom-screen-share-permissions.png
