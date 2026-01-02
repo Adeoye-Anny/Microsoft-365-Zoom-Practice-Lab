@@ -142,9 +142,8 @@ What I did
   * Verified Windows privacy:
     * Settings → Privacy → Microphone access
   * Tested with a Teams test call (if available) or joined a meeting and checked mic meter.
+    <img width="1920" height="906" alt="image" src="https://github.com/user-attachments/assets/a7cdb1c0-3a51-4ef0-8435-cdd6b99ccebb" />
 
-✅ Screenshot to upload: Teams Devices settings showing selected mic/speaker.
-Filename: teams-device-settings.png
 
 # Part B: Zoom Hosting + Troubleshooting
 ### 1. Hosted a Zoom meeting (as the organizer)
@@ -158,8 +157,8 @@ What I did
     * Lock meeting
     * Share screen
 
-✅ Screenshot to upload: Zoom host controls bar visible during meeting.
-Filename: zoom-host-controls.png
+      <img width="1919" height="927" alt="image" src="https://github.com/user-attachments/assets/91be49a3-613c-4d65-bbeb-d5e0b7d57f06" />
+
 
 
 ### 2. Troubleshot common Zoom issues
@@ -169,9 +168,8 @@ Fix steps I used
     * Click ^ next to speaker icon → Select Speaker
   * Tested speaker audio.
   * Confirmed Windows volume mixer isn’t muted.
+    <img width="1920" height="1028" alt="image" src="https://github.com/user-attachments/assets/ac1700fe-dca8-4b1a-b7d6-9ad84866737d" />
 
-✅ Screenshot to upload: Audio menu showing speaker selection.
-Filename: zoom-select-speaker.png
 
 #### Issue 2: “My microphone isn’t working”
 Fix steps I used
@@ -180,8 +178,6 @@ Fix steps I used
   * Checked Windows microphone privacy settings.
   * Closed apps that might be using the mic (Teams, browser tabs, etc.).
 
-✅ Screenshot to upload: Microphone selection menu + input meter.
-Filename: zoom-select-microphone.png
 
 #### Issue 3: “Camera not working / black screen”
 Fix steps I used
@@ -190,8 +186,6 @@ Fix steps I used
   * Confirmed Windows camera privacy access is enabled.
   * Restarted Zoom and re-tested.
 
-✅ Screenshot to upload: Zoom video settings showing selected camera preview.
-Filename: zoom-video-settings.png
 
 #### Issue 4: “I can’t share my screen”
 Fix steps I used
@@ -200,8 +194,7 @@ Fix steps I used
   * Tested sharing the entire screen vs a single window.
   * Confirmed no restricted policy or conflicting app overlay.
 
-✅ Screenshot to upload: Zoom Security menu settings related to screen sharing.
-Filename: zoom-screen-share-permissions.png
+
 
 ### Results
 By completing these tasks, I demonstrated practical end-user support skills across Microsoft 365 and Zoom, including configuring apps, troubleshooting common user issues, validating fixes, and documenting the process in a recruiter-friendly format.
